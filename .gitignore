@@ -1,6 +1,6 @@
 # The tmp directory
 tmp/
-HelpDocumentation/
+# HelpDocumentation/
 # Python checkpoints
 .ipynb_checkpoints/
 # Emacs auto save files
