@@ -12,6 +12,7 @@ organized in topics.
 * [Anomaly Detection via Deep Models](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/3Anomaly%20Detection%20with%20Deep%20Learning)
 * [Proximal Methods](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master5More%20Math%20and%20Theory/Numerical%20Optimization/Proximal%20Algorithms.pdf)
 ### Topic
+* [Machine Learning Book](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/1MachineLearning/Introduction%20to%20Machine%20Learning_3rd_edition.pdf)
 
 
 ### My notes
@@ -20,8 +21,10 @@ organized in topics.
   * [VAE](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/VAE.md) 
   
 ### Other Interests
+
 * [PHD and Research advice](https://www.cs.jhu.edu/~jason/advice/)
 * [a tutorial list](https://www.cs.jhu.edu/~jason/tutorials/)
+
 Khan acadamy video lecture:
 
 * [Journal of information theory](https://www.khanacademy.org/computing/computer-science/informationtheory) 
