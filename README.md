@@ -25,6 +25,22 @@ organized in topics.
 * [PHD and Research advice](https://www.cs.jhu.edu/~jason/advice/)
 * [a tutorial list](https://www.cs.jhu.edu/~jason/tutorials/)
 
+### Study plan:
+* linear algebra:
+
+[linear algebra done right](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/5More%20Math%20and%20Theory/Linear%20Algebra/Linear%20Algebra%20Done%20Right.pdf)
+
+learn all the decomposition
+
+* statistic
+
+[Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLPVRBhLWeOEgfLm4TotiikGe22dl-eFaK)
+
+as more Bayes: [LDA](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/5More%20Math%20and%20Theory/Probability%20and%20Stats/LDA数学八卦.pdf)
+
+* Numerical:
+    
+
 Khan acadamy video lecture:
 
 * [Journal of information theory](https://www.khanacademy.org/computing/computer-science/informationtheory) 
