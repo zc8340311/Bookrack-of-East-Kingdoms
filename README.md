@@ -36,10 +36,10 @@ learn all the decomposition
 
 [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLPVRBhLWeOEgfLm4TotiikGe22dl-eFaK)
 
-as more Bayes: [LDA](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/5More%20Math%20and%20Theory/Probability%20and%20Stats/LDA数学八卦.pdf)
+as more Bayes: [LDA,从gamma函数讲起](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/5More%20Math%20and%20Theory/Probability%20and%20Stats/LDA数学八卦.pdf)
 
 * Numerical:
-    
+    [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 
 Khan acadamy video lecture:
 
