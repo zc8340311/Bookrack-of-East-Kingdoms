@@ -27,7 +27,6 @@ organized in topics.
 
 ### Study plan:
 * linear algebra:
-
 [linear algebra done right](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/5More%20Math%20and%20Theory/Linear%20Algebra/Linear%20Algebra%20Done%20Right.pdf)
 
 learn all the decomposition
@@ -41,6 +40,10 @@ as more Bayes: [LDA,从gamma函数讲起](https://github.com/zc8340311/Bookrack-
 * Numerical:
     [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 
+* XGboost on Sklearn
+
+    
+    
 Khan acadamy video lecture:
 
 * [Journal of information theory](https://www.khanacademy.org/computing/computer-science/informationtheory) 
