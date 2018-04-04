@@ -42,7 +42,9 @@ as more Bayes: [LDA,从gamma函数讲起](https://github.com/zc8340311/Bookrack-
 
 * XGboost on Sklearn
 
-    
+* Class: convex optimization: [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+
+* Class: Probability Graphic Model: [PGM](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
     
 Khan acadamy video lecture:
 
