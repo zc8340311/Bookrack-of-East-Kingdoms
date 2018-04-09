@@ -19,7 +19,7 @@ organized in topics.
   
   * [Quicknotes](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/QuickNotes.txt)
   * [VAE](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/VAE.md) 
-  
+  * [Proximal Gradient](https://github.com/zc8340311/Bookrack-of-East-Kingdoms/tree/master/ProximalGradient.md)
 ### Other Interests
 
 * [PHD and Research advice](https://www.cs.jhu.edu/~jason/advice/)
@@ -49,7 +49,5 @@ as more Bayes: [LDA,从gamma函数讲起](https://github.com/zc8340311/Bookrack-
 Khan acadamy video lecture:
 
 * [Journal of information theory](https://www.khanacademy.org/computing/computer-science/informationtheory) 
-  
-
-
+   
   
